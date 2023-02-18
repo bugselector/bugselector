@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my github pages: <https://overau.github.io>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=overau)](https://github.com/anuraghazra/github-readme-stats)
